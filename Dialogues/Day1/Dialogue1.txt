@@ -1,0 +1,6 @@
+Kyle;Hey what's up Scene 1;0;R
+Orien;Nothing much man Scene 1;0;L
+Kyle;Oh that's cool Scene 1;1;R
+Player;Restart:line,0;Continue:line,4;Next Scene:scene,2
+Kyle;This is a test Scene 1;2;L
+Orien;Test test test test Scene 1;2;R

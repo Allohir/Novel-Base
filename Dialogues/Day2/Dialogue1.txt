@@ -1,0 +1,6 @@
+Kyle;Hey what's up Day 2;0;R
+Orien;Nothing much man Day 2;0;L
+Kyle;Oh that's cool Day 2;1;R
+Player;Привет, я пес:line,0;Continue:line,4;Next Scene:scene,2
+Kyle;This is a test Scene 2;2;L
+Orien;Test test test tes Scene 2t;2;R
